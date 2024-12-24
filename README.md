@@ -12,7 +12,7 @@ Hello there! I am Muhammad Raffli, a Software Engineering student at Ibnu Khaldu
 
 ---
 
-- 🌱 I’m currently learning **ReactJs,NextJs, ExpressJs**
+
 
 - 📫 How to reach me **mhmd.raffli09@gmail.com**
 
