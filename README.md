@@ -7,7 +7,8 @@
 ---
 
 <p align="justify">
-Hello there! I am Muhammad Raffli, a Software Engineering student at Ibnu Khaldun University, Bogor. Currently, I am honing my skills as a software developer. My interests lie in creating innovative solutions, with an interest in creating an attractive website appearance. My development goals revolve around bringing ideas to life, simplifying tasks, trying new things, and continually enriching my programming skills. and of course Always eager to explore and learn, I believe in pushing boundaries and challenging myself.
+Hello! I am Muhammad Raffli, a dedicated Frontend Developer, I have a great interest in designing and developing attractive, responsive and easy to use user interfaces. My focus is on creating an intuitive user experience by leveraging modern frontend technologies.
+I enjoy turning ideas into functional and aesthetic digital solutions, experimenting with new technologies, and continuously improving my skills in the field of web development. With a high enthusiasm for learning, I always try to provide the best results in every project I work on.
 </p>
 
 ---
